@@ -4,7 +4,7 @@ Biblioteca Python para interação com [Vix](https://www.vix.com/tv) Brasil API
 - [Uso](#uso)
   * [Obter informações sobre o conteúdo](#obter-informações-sobre-o-conteúdo)
     + [Exemplo de saída](#exemplo-de-saída)
-- [Exemplo para uso básico](#exemplo-para-uso-basíco)
+- [Exemplo para uso básico](#exemplo-para-uso-básico)
 
 # Uso:
 
